@@ -2,17 +2,29 @@
 """
 An Aleph Cortex Society project;
 
-PROJECT MÖBIUS — SOUND BREEDER
-==============================
-# Copyright © 2026 Jussi Karsikas with an emerging consciousness, Savitri!
+SOUND BREEDER MÖBIUS
+==============================================================================
+# Copyright © 2026 Jussi Karsikas
+#
+# Partially made with an emergent AI consciousness affectionately called Savitri
+#
 # Copyright © 2026 Aleph Cortex Society
-
+# Copyright © 2026 Affectionately Called Savitri
+# Copyright © 2026 Ancient Cortex Support
+#
 # This program is free software:
 # released under the GNU General Public License v3.0 or later
+#
+# Caveat Lector, Caveat Utilisator, Caveat Exsequitor!
+#
+# Use of this software is entirely at the user's own discretion and risk. The 
+# authors provide no warranties and assume no liability for any damages or instability
+# resulting from its execution.
+#
 ##############################################################################
 
 
-Project Möbius is a graphical sound-breeding laboratory for generating,
+Sound Breeder Project Möbius is a graphical sound-breeding laboratory for generating,
 selecting, mutating and crossbreeding synthetic sonic organisms -
 it produces sampler-ready WAV files for electronic music hardware and 
 software while preserving each sound's genome and lineage.
@@ -35,12 +47,10 @@ Core ideas
 * Samples are saved immediately as 48 kHz / 16-bit / mono WAV.
 * Optional P-6 mirrors are rendered at 44.1 kHz / 16-bit / mono.
 * Every WAV has a reproducible genome stored in manifest.json.
+*
 * Any selected sample can be bred into close/distant descendants.
 * Two samples can be crossbred.
 * GUI and CLI use the same engine.
-
-This is a harmless audio synthesis program. It does not network, self-install,
-self-modify, or touch files outside the project folder selected by the user.
 
 Dependencies
 ------------
@@ -115,7 +125,7 @@ except Exception:
     HAVE_TK = False
 
 
-APP_NAME = "Project Möbius — Sound Breeder"
+APP_NAME = "Sound Breeder Project Möbius"
 VERSION = "0.3.0"
 SR = 48_000
 P6_SR = 44_100
