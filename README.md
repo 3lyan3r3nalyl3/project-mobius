@@ -8,9 +8,9 @@
 
 A graphical procedural sound-breeding environment for Linux/Python.
 
-This is not primarily a sound editor. It is a **sound genetics laboratory**:
-generate organisms, inspect their genomes, choose parents, breed descendants,
-cross unrelated families, and export sampler-ready WAV files.
+Sound Breeder Möbius is not primarily a sound editor. It is a **sound genetics
+laboratory**: generate organisms, inspect their genomes, choose parents, breed
+descendants, cross unrelated families, and export sampler-ready WAV files.
 
 ## Five ecologies
 
@@ -188,7 +188,7 @@ A sound is not merely a file. It is:
 - a lineage,
 - and a possible parent of future sounds.
 
-That is the Möbius loop: samples return to the engine as ancestors.
+That is here the Möbius loop: samples return to the engine as ancestors.
 
 The samples were basically thought of to be used either in Roland P-6,
 Elektron Model:Samples and Elektron Tonverk.
