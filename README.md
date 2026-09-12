@@ -1,10 +1,4 @@
-########################################################################
-# Project Möbius — Sound Breeder v0.3
-#
-# This program is free software: released under the GNU General Public
-# License v3.0 or later.
-#
-########################################################################
+Project Möbius — Sound Breeder v0.3
 
 A graphical procedural sound-breeding environment for Linux/Python.
 
