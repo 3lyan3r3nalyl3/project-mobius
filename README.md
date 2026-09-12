@@ -186,3 +186,9 @@ That is here the Möbius loop: samples return to the engine as ancestors.
 
 The samples were basically thought of to be used either in Roland P-6,
 Elektron Model:Samples and Elektron Tonverk.
+
+########################################################################
+# This program is free software: released under the GNU General Public
+# license v3.0 or later.
+########################################################################
+
